@@ -1,1 +1,2 @@
 # allatok
+állatokat gyujtunk
